@@ -136,12 +136,8 @@ Add project screenshots here.
 
 ## 👨‍💻 Author
 
-**Vasanth**
-
-GitHub: https://github.com/your-username
+**BALAJI.G**
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
